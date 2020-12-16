@@ -1,0 +1,1 @@
+(()=>{"use strict";document.addEventListener("contextmenu",(function(t){var e;if(console.log(t),2!=t.button)return!1;var n=null===(e=window.getSelection())||void 0===e?void 0:e.toString();console.log(n),2==t.button&&""!=n?chrome.runtime.sendMessage({type:"onRightClick",text:n},(function(){})):chrome.runtime.sendMessage({type:"onRightClick",text:""},(function(){}))}))})();

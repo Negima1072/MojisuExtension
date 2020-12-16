@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@types/chrome": "^0.0.127",
     "webextension-polyfill-ts": "^0.22.0"
   },
   "devDependencies": {

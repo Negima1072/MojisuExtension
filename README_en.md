@@ -8,7 +8,7 @@ A Chrome extension that displays the number of selected characters on the contex
 Add it to your browser from [here](https://chrome.google.com/webstore/detail/mojisucounter/jkeifldhholnbiggjbdpgplbdanoepje).
 
 ## Extensions Setting
-1. Access to chrome://extensions/
+1. Access chrome://extensions/
 2. Turn on developer mode
 3. Load the file downloaded from "Loading an unpackaged extension"
 
